@@ -1,7 +1,7 @@
-NAME: BOHAN ZHANG
-COURSE-SECTION: CSCE4550.001
 DATE: 10-13-2018
+
 LICENSE: MIT
+
 Description:
 
 This program simulates a simple secure system with Bell-LaPadula built-in security features (No read up, No write down). This program takes a instruction file created by you. The instruction file should certain instructions to let the program add subjects and objects and change their values based on the security model.
