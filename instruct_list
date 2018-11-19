@@ -1,0 +1,23 @@
+adDsub kel0004 LOw
+addSUB jms0381 MEDIUm
+addsUB sam0039 HIGH
+addObj file001 MEDIUM
+ADDobj file002 LOW
+write kel0004 file002 20
+write jms0381 file001 10
+read sam0039 file001
+read kel0004 file001
+read kel0004 file002
+write jms0381 file002 20
+write sam0039 file002 20
+weite sma222 file 20
+weite sma223 file 20
+weite sma224 file 20
+weite sma225 file 20
+weite sma2226 file 20
+addsub kel0004 MEDUIM
+addobj file001 HIGH
+addobj file002 MEDUIM
+ADDSUB bz00512 low
+ADDSUB bz00512 low
+ADDSUB bz00512 low
